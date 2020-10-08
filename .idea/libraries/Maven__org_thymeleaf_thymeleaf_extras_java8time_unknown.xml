@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.thymeleaf:thymeleaf-extras-java8time:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-extras-java8time/unknown/thymeleaf-extras-java8time-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-extras-java8time/unknown/thymeleaf-extras-java8time-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-extras-java8time/unknown/thymeleaf-extras-java8time-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
